@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.5.0 (H:\Python3.5.0\python.exe)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="PbaPy2.7.9" />
+    <orderEntry type="module" module-name="Simple network Sniffer(Ana Balica)" />
+    <orderEntry type="module" module-name="Prueba struct" />
+    <orderEntry type="module" module-name="Pba3" />
+  </component>
+</module>

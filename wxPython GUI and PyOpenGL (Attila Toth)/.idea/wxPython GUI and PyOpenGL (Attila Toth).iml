@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/11 - Clase de geometria P1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10 - Saliendo de la aplicacion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/09 - Boton rotate" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08 - wx.Panel" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07 - Rehaciendo el canvas" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06 - VBOs y el primer triangulo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05 - Shaders basicos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04 - Vertices de triangulo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03 - Creando el Canvas" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02 - Creando un Frame" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/01 - Introduccion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/12 - Clase de geometria P2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13 - Poyeccion de perspectiva" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13 - Proyeccion de perspectiva" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14 - Radiobuttons" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="projectConfiguration" value="py.test" />
+    <option name="PROJECT_TEST_RUNNER" value="py.test" />
+  </component>
+</module>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Pruebas/pbasMias" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pruebas/Tutorial04" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Python_Creating_Computer_Graphics/leccion201" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Python_Creating_Computer_Graphics/leccion202" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Python_Creating_Computer_Graphics/leccion203" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Python_Creating_Computer_Graphics/leccion204" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Game Development/KidsCanCode-Game-Development" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/juego" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Copia de ThinMatrix/01 The Display" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Copia de ThinMatrix/02 VAOs and VBOs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Copia de ThinMatrix/03 Rendering with Index Buffers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Copia de ThinMatrix/04 05 Introduction to Shaders" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Copia de ThinMatrix/06 Texturing" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Copia de ThinMatrix/07 Matrices &amp; Uniform Variables" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Copia de ThinMatrix/08 Model, View &amp; Projection Matrices" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Copia de ThinMatrix/09-10 Loading 3D Models" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Copia de ThinMatrix/11 Per-Pixel Lighting" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Copia de ThinMatrix/12 Specular Lighting" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Copia de ThinMatrix/13 Optimizing" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/De TigerhawkT3 en YouTube/Tetris" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gamedev-master/brick" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Copia de ThinMatrix/14 Simple Terrain" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Copia de ThinMatrix/15 Transparency" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/How To Learn Python Programming Fast With Examples (CupofCode 01 )" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/Capitulos" />
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.6 (KidsCanCode(Youtube))" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
